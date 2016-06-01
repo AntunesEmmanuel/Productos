@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Program\bin\Debug\Program.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Program\bin\Debug\Program.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Program\obj\x86\Debug\Program.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Program\obj\x86\Debug\Program.pdb
+C:\Users\LabTec\Desktop\Program\Program\obj\x86\Debug\Program.exe
+C:\Users\LabTec\Desktop\Program\Program\obj\x86\Debug\Program.pdb
